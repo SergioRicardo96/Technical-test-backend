@@ -44,7 +44,7 @@ DB_PASSWORD=
 
 ### 3.1. Create the Database
 ```sql
-   CREATE DATABASE wifri CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+   CREATE DATABASE task_db CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 ```
 
 ### 3.2. Import the SQL File
